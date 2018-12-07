@@ -1,0 +1,4 @@
+Ad	Soyad	Yas
+Ali	Önat	33
+Hakan	Yýlmaz	25
+Musto	Fýrat	15
